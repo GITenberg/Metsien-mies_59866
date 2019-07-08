@@ -1,5 +1,5 @@
 _repo: Metsien-mies_59866
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Nyman, Väinö
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/212
     wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59866#Metsien-mies
 gutenberg_issued: '2019-07-06'
 gutenberg_type: Text
 identifiers:
